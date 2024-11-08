@@ -1,0 +1,16 @@
+{
+"name": "Microarts eInkTools Library",
+"version": "1.0.0",
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/Wobex/MLibeInkTools"
+},
+"authors":
+{
+    "name": "Wolfram Becker",
+    "email": "WolframBecker@micro-arts.de",
+    "url": "https://www.micro-arts.de"
+},
+"platforms": ["esp32", "esp8266"]
+}
